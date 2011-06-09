@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, NookChargerControl!</string>
+    <string name="app_name">Nook Charger Control</string>
+    <string name="PowerBanner">Force high-rate (1.9A) charging</string>
+</resources>
